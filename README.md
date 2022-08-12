@@ -1,5 +1,5 @@
 # Frontend Mentor - Interactive rating component
-[click](https://cansuoztas.github.io/Web-page-team-anka/)
+[CLİCK !](https://cansuoztas.github.io/Web-page-team-anka/)
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
